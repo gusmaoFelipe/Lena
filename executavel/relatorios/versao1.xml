@@ -1,0 +1,312 @@
+
+<root>
+    <arquivo>corte.png</arquivo>
+    <acao>abrir</acao>
+    <fator>0.0</fator>
+    <ano>2015</ano>
+    <mes>5</mes>
+    <dia>23</dia>
+    <hora>13</hora>
+    <minuto>30</minuto>   
+</root>
+
+
+<root>
+    <arquivo>corte.png</arquivo>
+    <acao>aumentar</acao>
+    <fator>0.5</fator>
+    <ano>2015</ano>
+    <mes>5</mes>
+    <dia>23</dia>
+    <hora>13</hora>
+    <minuto>30</minuto>   
+</root>
+
+
+<root>
+    <arquivo>corte.png</arquivo>
+    <acao>diminuir</acao>
+    <fator>2.0</fator>
+    <ano>2015</ano>
+    <mes>5</mes>
+    <dia>23</dia>
+    <hora>13</hora>
+    <minuto>30</minuto>   
+</root>
+
+
+<root>
+    <arquivo>corte.png</arquivo>
+    <acao>rotaçao esquerda</acao>
+    <fator>90.0</fator>
+    <ano>2015</ano>
+    <mes>5</mes>
+    <dia>23</dia>
+    <hora>13</hora>
+    <minuto>30</minuto>   
+</root>
+
+
+<root>
+    <arquivo>corte.png</arquivo>
+    <acao>rotaçao direita</acao>
+    <fator>90.0</fator>
+    <ano>2015</ano>
+    <mes>5</mes>
+    <dia>23</dia>
+    <hora>13</hora>
+    <minuto>30</minuto>   
+</root>
+
+
+<root>
+    <arquivo>corte.png</arquivo>
+    <acao>Correção Gamma</acao>
+    <fator>0.95</fator>
+    <ano>2015</ano>
+    <mes>5</mes>
+    <dia>23</dia>
+    <hora>13</hora>
+    <minuto>30</minuto>   
+</root>
+
+
+<root>
+    <arquivo>corte.png</arquivo>
+    <acao>Correção Gamma</acao>
+    <fator>0.95</fator>
+    <ano>2015</ano>
+    <mes>5</mes>
+    <dia>23</dia>
+    <hora>13</hora>
+    <minuto>30</minuto>   
+</root>
+
+
+<root>
+    <arquivo>corte.png</arquivo>
+    <acao>Correção Gamma</acao>
+    <fator>0.95</fator>
+    <ano>2015</ano>
+    <mes>5</mes>
+    <dia>23</dia>
+    <hora>13</hora>
+    <minuto>30</minuto>   
+</root>
+
+
+<root>
+    <arquivo>corte.png</arquivo>
+    <acao>Correção Gamma</acao>
+    <fator>0.95</fator>
+    <ano>2015</ano>
+    <mes>5</mes>
+    <dia>23</dia>
+    <hora>13</hora>
+    <minuto>30</minuto>   
+</root>
+
+
+<root>
+    <arquivo>corte.png</arquivo>
+    <acao>Correção Gamma</acao>
+    <fator>1.05</fator>
+    <ano>2015</ano>
+    <mes>5</mes>
+    <dia>23</dia>
+    <hora>13</hora>
+    <minuto>30</minuto>   
+</root>
+
+
+<root>
+    <arquivo>corte.png</arquivo>
+    <acao>Correção Gamma</acao>
+    <fator>1.05</fator>
+    <ano>2015</ano>
+    <mes>5</mes>
+    <dia>23</dia>
+    <hora>13</hora>
+    <minuto>30</minuto>   
+</root>
+
+
+<root>
+    <arquivo>corte.png</arquivo>
+    <acao>Correção Gamma</acao>
+    <fator>1.05</fator>
+    <ano>2015</ano>
+    <mes>5</mes>
+    <dia>23</dia>
+    <hora>13</hora>
+    <minuto>30</minuto>   
+</root>
+
+
+<root>
+    <arquivo>corte.png</arquivo>
+    <acao>Correção Gamma</acao>
+    <fator>1.05</fator>
+    <ano>2015</ano>
+    <mes>5</mes>
+    <dia>23</dia>
+    <hora>13</hora>
+    <minuto>30</minuto>   
+</root>
+
+
+<root>
+    <arquivo>corte.png</arquivo>
+    <acao>Correção Gamma</acao>
+    <fator>1.05</fator>
+    <ano>2015</ano>
+    <mes>5</mes>
+    <dia>23</dia>
+    <hora>13</hora>
+    <minuto>30</minuto>   
+</root>
+
+
+<root>
+    <arquivo>corte.png</arquivo>
+    <acao>Correção Gamma</acao>
+    <fator>1.05</fator>
+    <ano>2015</ano>
+    <mes>5</mes>
+    <dia>23</dia>
+    <hora>13</hora>
+    <minuto>30</minuto>   
+</root>
+
+
+<root>
+    <arquivo>corte.png</arquivo>
+    <acao>Negativo</acao>
+    <fator>0.0</fator>
+    <ano>2015</ano>
+    <mes>5</mes>
+    <dia>23</dia>
+    <hora>13</hora>
+    <minuto>30</minuto>   
+</root>
+
+
+<root>
+    <arquivo>corte.png</arquivo>
+    <acao>Negativo</acao>
+    <fator>0.0</fator>
+    <ano>2015</ano>
+    <mes>5</mes>
+    <dia>23</dia>
+    <hora>13</hora>
+    <minuto>30</minuto>   
+</root>
+
+
+<root>
+    <arquivo>corte.png</arquivo>
+    <acao>Escala de Cinza: CIE</acao>
+    <fator>0.0</fator>
+    <ano>2015</ano>
+    <mes>5</mes>
+    <dia>23</dia>
+    <hora>13</hora>
+    <minuto>30</minuto>   
+</root>
+
+
+<root>
+    <arquivo>corte.png</arquivo>
+    <acao>Escala de Cinza: CIE</acao>
+    <fator>0.0</fator>
+    <ano>2015</ano>
+    <mes>5</mes>
+    <dia>23</dia>
+    <hora>13</hora>
+    <minuto>30</minuto>   
+</root>
+
+
+<root>
+    <arquivo>corte.png</arquivo>
+    <acao>Negativo</acao>
+    <fator>0.0</fator>
+    <ano>2015</ano>
+    <mes>5</mes>
+    <dia>23</dia>
+    <hora>13</hora>
+    <minuto>30</minuto>   
+</root>
+
+
+<root>
+    <arquivo>corte.png</arquivo>
+    <acao>Negativo</acao>
+    <fator>0.0</fator>
+    <ano>2015</ano>
+    <mes>5</mes>
+    <dia>23</dia>
+    <hora>13</hora>
+    <minuto>30</minuto>   
+</root>
+
+
+<root>
+    <arquivo>corte.png</arquivo>
+    <acao>Negativo</acao>
+    <fator>0.0</fator>
+    <ano>2015</ano>
+    <mes>5</mes>
+    <dia>23</dia>
+    <hora>13</hora>
+    <minuto>30</minuto>   
+</root>
+
+
+<root>
+    <arquivo>corte.png</arquivo>
+    <acao>Negativo</acao>
+    <fator>0.0</fator>
+    <ano>2015</ano>
+    <mes>5</mes>
+    <dia>23</dia>
+    <hora>13</hora>
+    <minuto>30</minuto>   
+</root>
+
+
+<root>
+    <arquivo>corte.png</arquivo>
+    <acao>Escala de Cinza: CIE</acao>
+    <fator>0.0</fator>
+    <ano>2015</ano>
+    <mes>5</mes>
+    <dia>23</dia>
+    <hora>13</hora>
+    <minuto>30</minuto>   
+</root>
+
+
+<root>
+    <arquivo>corte.png</arquivo>
+    <acao>Escala de Cinza: CIE</acao>
+    <fator>0.0</fator>
+    <ano>2015</ano>
+    <mes>5</mes>
+    <dia>23</dia>
+    <hora>13</hora>
+    <minuto>30</minuto>   
+</root>
+
+
+<root>
+    <arquivo>corte.png</arquivo>
+    <acao>Escala de Cinza: CIE</acao>
+    <fator>0.0</fator>
+    <ano>2015</ano>
+    <mes>5</mes>
+    <dia>23</dia>
+    <hora>13</hora>
+    <minuto>30</minuto>   
+</root>
+
